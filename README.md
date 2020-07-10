@@ -10,3 +10,6 @@ See attached user manual for more details. You will need to download MATLAB runt
 This is the standalone app version. Find the MATLAB version at the following link:
 
 https://github.com/MaxVWDV/glacier-image-velocimetry
+
+
+[![DOI](https://zenodo.org/badge/275828491.svg)](https://zenodo.org/badge/latestdoi/275828491)
