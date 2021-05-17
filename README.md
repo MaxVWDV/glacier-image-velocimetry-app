@@ -13,3 +13,9 @@ https://github.com/MaxVWDV/glacier-image-velocimetry
 
 
 [![DOI](https://zenodo.org/badge/275828491.svg)](https://zenodo.org/badge/latestdoi/275828491)
+
+
+Find the first video of the tutorial below:
+
+The Glacier Image Velocimetry (GIV) toolbox - Zero to ice flow in 10 minutes:
+[![GIV tutorial 1: Zero to ice flow in 10 minutes](https://img.youtube.com/vi/mu15GX2jy20/0.jpg)](https://youtu.be/mu15GX2jy20 "GIV tutorial 1: Zero to ice flow in 10 minutes")
