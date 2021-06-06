@@ -20,4 +20,4 @@ Find the first video of the tutorial below:
 The Glacier Image Velocimetry (GIV) toolbox - Zero to ice flow in 10 minutes:
 [![GIV tutorial 1: Zero to ice flow in 10 minutes](https://img.youtube.com/vi/mu15GX2jy20/0.jpg)](https://youtu.be/mu15GX2jy20 "GIV tutorial 1: Zero to ice flow in 10 minutes")
 
-Note the mac (apple) version is not currently up to date. Send me an email if you need a copy and do not have access to MATLAB.
+Note the mac (apple) version is not currently up to date. Send me an email if you need a copy and do not have access to MATLAB. The WINDOWS and LINUX versions are fully up to date.
